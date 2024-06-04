@@ -1,42 +1,18 @@
-# 📊 LLM for Logging 🚀
+# LLM-for-Logging
 
-Welcome to the *LLM for Logging* project! This repository showcases the use of Large Language Models (LLMs) for log data analysis and categorization.
+## 📖 How to Use
 
-## 🌟 Overview
-
-This project leverages BERT and other NLP techniques to categorize and analyze log data. The workflow includes data preprocessing, model training from scratch, evaluation, and saving the trained model.
-
-## 🗂 Repository Structure
-
-```plaintext
-LLM-for-Logging/
-├── .gitattributes
-├── .DS_Store
-├── Final.ipynb
-├── Log categorization using LLM.pdf
-├── Manual Approach(EX).ipynb
-├── Train BERT.pdf
-├── Trained BERT Model.ipynb
-├── Trained Bert Model from scratch.ipynb
-├── cisco_log.txt
-├── enhanced_cisco_logs.csv
-├── sample_logs.txt
-├── structured_logs.csv
-├── structured_output.csv
-└── README.md (You are here!)
-
-
-📖 How to Use
-Clone the repository:
-sh
-Copy code
+### Clone the Repository
+```sh
 git clone https://github.com/Nani1-glitch/LLM-for-Logging-.git
-Navigate to the project directory:
+
+# Navigate to the Project Directory
 cd LLM-for-Logging
-Run the Jupyter notebooks:
-Final.ipynb for the final implementation.
-Manual Approach(EX).ipynb for manual log categorization examples.
-Trained Bert Model from scratch.ipynb for training BERT from scratch.
+
+Run the Jupyter Notebooks
+Final Implementation: Final.ipynb
+Manual Log Categorization Examples: Manual Approach(EX).ipynb
+Training BERT from Scratch: Trained Bert Model from scratch.ipynb
 🧩 Key Components
 Data Preprocessing
 Log Parsing: Extracts relevant information from raw log files.
@@ -61,11 +37,8 @@ Enhanced Logs: enhanced_cisco_logs.csv
 Structured Logs: structured_logs.csv
 Structured Output: structured_output.csv
 🛠 Tools & Libraries
-Python
-Pandas
-PyTorch
-Transformers
-Scikit-Learn
+Programming Language: Python
+Libraries: Pandas, PyTorch, Transformers, Scikit-Learn
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -73,4 +46,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributions are welcome! Please open an issue or submit a pull request.
 
 📞 Contact
-For any questions or feedback, please contact me!
+For any questions or feedback, please contact me!
