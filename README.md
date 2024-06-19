@@ -50,5 +50,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📬 Contact 📬
 For any questions or feedback, please contact Nani1-glitch.
-
-```bash
