@@ -19,11 +19,11 @@ This repository showcases the use of Language Models for log data processing, ca
 
 ## Getting Started 🛠️
 ### Clone the Repository
-```bash
+
 git clone https://github.com/Nani1-glitch/LLM-for-Logging-.git
 cd LLM-for-Logging
 
-# 🚀 Run the Notebooks
+### 🚀 Run the Notebooks
 - **📘 Final Implementation**: `Final.ipynb`
 - **📓 Manual Log Categorization Examples**: `Manual Approach(EX).ipynb`
 - **📙 Training BERT from Scratch**: `Trained Bert Model from scratch.ipynb`
@@ -50,3 +50,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📬 Contact 📬
 For any questions or feedback, please contact Nani1-glitch.
+
+```bash
